@@ -9,7 +9,7 @@ title: Vladislav Petrov's CV
 ![image](https://user-images.githubusercontent.com/22201630/235650483-2a2776bb-9b60-454a-aca3-6aea4348e973.png)
 
 
-# Студент
+## Студент
 # Ссылки для связи
 
 <div id="webaddress">
@@ -18,11 +18,11 @@ title: Vladislav Petrov's CV
 </div>
 
 
-# На данный момент
+### На данный момент
 
 Обучаюсь в Полесском Государственном Университетеadadadadad
 
-# Специализация
+### Специализация
 
 Инженер-программист, экономист
 
