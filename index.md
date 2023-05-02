@@ -1,4 +1,5 @@
 ---
+![image](https://user-images.githubusercontent.com/22201630/235650483-2a2776bb-9b60-454a-aca3-6aea4348e973.png)
 layout: cv
 title: Vladislav Petrov's CV
 ---
