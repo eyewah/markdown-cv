@@ -11,7 +11,7 @@ title: Vladislav Petrov's CV
 
 # Студент
 # Ссылки для связи
-##
+
 <div id="webaddress">
 <a href="vladis5422@gmail.com">vladis5422@gmail.com</a>
 | <a href="https://vk.com/schizophrenicesoteric">VK</a>
@@ -31,13 +31,13 @@ title: Vladislav Petrov's CV
 
 # Образование
 
-2009-2014
+*2009-2014
 _СШ №14, г.Пинск_
 
-2014-2020
+*2014-2020
 _СШ №12, г.Пинск_
 
-2020-н.в.
+*2020-н.в.
 _ПолесГУ_
 
 
