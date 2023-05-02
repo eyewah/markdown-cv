@@ -9,10 +9,10 @@ title: Vladislav Petrov's CV
 __Студент__
 ### Ссылки для связи
 
-__<div id="webaddress">
+<div id="webaddress">
 <a href="vladis5422@gmail.com">vladis5422@gmail.com</a>
 | <a href="https://vk.com/schizophrenicesoteric">VK</a>
-</div>__
+</div>
 
 
 ## На данный момент
