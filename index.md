@@ -5,9 +5,9 @@ layout: cv
 title: Vladislav Petrov's CV
 ---
 # Владислав Петров
-Студент
-![image](https://user-images.githubusercontent.com/22201630/235650483-2a2776bb-9b60-454a-aca3-6aea4348e973.png)
 
+![image](https://user-images.githubusercontent.com/22201630/235650483-2a2776bb-9b60-454a-aca3-6aea4348e973.png)
+Студент
 <div id="webaddress">
 <a href="vladis5422@gmail.com">vladis5422@gmail.com</a>
 | <a href="https://vk.com/schizophrenicesoteric">VK</a>
