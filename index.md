@@ -10,6 +10,8 @@ title: Vladislav Petrov's CV
 
 
 # Студент
+# Ссылки для связи
+##
 <div id="webaddress">
 <a href="vladis5422@gmail.com">vladis5422@gmail.com</a>
 | <a href="https://vk.com/schizophrenicesoteric">VK</a>
@@ -20,7 +22,7 @@ title: Vladislav Petrov's CV
 
 Обучаюсь в Полесском Государственном Университете
 
-## Специализация
+# Специализация
 
 Инженер-программист, экономист
 
