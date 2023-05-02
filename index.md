@@ -6,13 +6,13 @@ title: Vladislav Petrov's CV
 ---
 # Владислав Петров
 
-** Студент **
+__Студент__
 ### Ссылки для связи
 
-*** <div id="webaddress">
+__<div id="webaddress">
 <a href="vladis5422@gmail.com">vladis5422@gmail.com</a>
 | <a href="https://vk.com/schizophrenicesoteric">VK</a>
-</div> ***
+</div>__
 
 
 ## На данный момент
